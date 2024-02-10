@@ -1,0 +1,25 @@
+Today on my Python Learning Journey, i've tested myself on the basics of Python Syntax. This was developed through ChatGPT and compounded using e-books, youtube videos and advice of friends. 
+
+Here is the overall journey i'll be taking on. 
+    Basic Syntax:
+        Spend at least 1-2 hours reviewing the basic syntax of Python. Understand how to define variables, use different data types (integers, floats, strings), and print output.
+
+    Control Flow:
+        Devote 2-3 hours to understanding control flow structures like if statements, loops (for and while loops), and how to use them to control the flow of your program.
+
+    Functions:
+        Allocate 2-3 hours to learn about functions. Understand how to define functions, pass arguments, and return values. Also, explore the concept of scope.
+
+    Data Structures:
+        Spend 2-3 hours on fundamental data structures like lists and dictionaries. Learn how to manipulate these structures and understand their methods.
+
+    File Handling:
+        Spend 1-2 hours on basic file handling. Learn how to open, read, and write to files.
+
+    Exception Handling:
+        Dedicate 1-2 hours to understanding exception handling. Learn about try, except blocks and how to handle errors in your code gracefully.
+
+    Basic Libraries (Optional):
+        If you have time and are comfortable with the above concepts, you can spend some time exploring basic libraries like random or math to perform simple operations.
+
+The date is 2.9.24 and i feel very comfortable with Basic syntax. I also feel somewhat comfortable with Control Flow, but i need some more practice with advanced/nested control flow before i'm ready to move on to functions. 
